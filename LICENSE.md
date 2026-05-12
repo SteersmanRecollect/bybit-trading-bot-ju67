@@ -1,4 +1,4 @@
-# 
+# automatic Automation Script for bybit trading bot | perpetual-trading + price-monitoring offers the most advanced bybit trading bot, with perpetual-trading and price-monitoring.
 
 
 
